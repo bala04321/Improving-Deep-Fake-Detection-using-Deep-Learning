@@ -1,1 +1,6 @@
 # Improving-Deep-Fake-Detection-using-Deep-Learning
+In summary, the model includes convolutional layers for feature extraction, followed by dense layers for classification, with ReLU activation functions used throughout the 
+network and a sigmoid activation function for binary classification at the output layer.
+
+The provided code outlines a comprehensive approach to deepfake detection using a custom CNN model along with different types of Generative Adversarial Networks (GANs), including BicycleGAN, Deep Convolutional GAN (DCGAN), and Simple GAN. The custom CNN model is designed for image classification tasks, leveraging convolutional and pooling layers followed by dense layers for feature extraction and classification.
+BicycleGAN, DCGAN, and Simple GAN classes are also defined, providing a framework for implementing and training these GAN architectures for generating realistic fake images. The models are trained on a dataset containing both real and fake images, with the training process tailored to each GAN architecture. This approach allows for a multi-faceted approach to deepfake detection, combining the strengths of CNNs for classification with the capabilities of GANs for generating and detecting fake images.
