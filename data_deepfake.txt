@@ -1,0 +1,5 @@
+Improving Deep Fake Detection using Deep Learning
+
+The dataset are taken from the kaggle and this is the link:
+https://www.kaggle.com/code/krooz0/deep-fake-detection-on-images-and-videos/input
+In that we have 2 files one will be persons images and other will be metadata.csv file
